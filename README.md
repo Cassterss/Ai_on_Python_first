@@ -1,1 +1,2 @@
 # Ai_on_Python_first
+Hi, this is an adaptive mini-neural network that I have created. 1. Run the program 2. Select the number of neurons in the 2nd hidden layer. 3. Select the number of neurons in the 3rd hidden layer 4. Enter the data. The AI works with a function like y=x ** 2, you can replace the data with xx,yy to test the AI on other functions, but make sure to change the lr and epoch. I need this project to get to know PyTorch better and understand all its possibilities, as well as just to have fun :)
